@@ -1,0 +1,4 @@
+{"success":"başarılı","message":"Bulundu","adet":"1","data":[{"TC":"21398161180","ADI":"DEHA","SOYADI":"TUZCU","DOGUMTARIHI":"11.12.2002","NUFUSIL":null,"NUFUSILCE":null,"ANNEADI":"DERYA","ANNETC":"29300326870","BABAADI":"HAKAN","BABATC":"29363324776","UYRUK":"TR"}],"api_discord":"discord.gg\/5zmj3KabqT"}
+
+
+
